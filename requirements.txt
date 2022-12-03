@@ -1,0 +1,4 @@
+streamlit==0.74.0
+tweepy==3.13.0
+regex==2022.11.7
+scikit-learn==0.23.2
